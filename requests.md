@@ -1,6 +1,6 @@
 # Login Requests
 
-## get requests:
+## post requests:
 
 - login : http://localhost:8080/login
 ```json
@@ -19,7 +19,7 @@
 }
 ```
 
-## post requests:
+## get requests:
 
 NULL
 
